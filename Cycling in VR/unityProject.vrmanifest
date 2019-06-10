@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.cyclinginvr.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\unity projects\\Cycling in VR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Cycling in VR [Testing]"
+        }
+      }
+    }
+  ]
+}
